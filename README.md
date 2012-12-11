@@ -1,7 +1,5 @@
-Git-Flow-Practice
-=================
-
-Practicing how to use the git-flow process
+<h1>Git-Flow-Practice</h1>
+<<strong>Practicing how to use the git-flow process</strong>
 
 <h2>First install Git Flow (Using Homebrew on OS X)</h2>
 
